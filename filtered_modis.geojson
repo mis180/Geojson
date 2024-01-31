@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "latitude": "46.77874", "longitude": "48.12566", "brightness": "309", "scan": "1.3", "track": "1.13", "acq_date": "2024-01-23", "acq_time": "1032", "satellite": "A", "confidence": "62", "version": "6.1NRT", "bright_t31": "269.03", "frp": "19.75", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 48.12566, 46.77874 ] } },
 { "type": "Feature", "properties": { "latitude": "46.07003", "longitude": "53.43833", "brightness": "324.02", "scan": "1", "track": "1", "acq_date": "2024-01-30", "acq_time": "0656", "satellite": "T", "confidence": "0", "version": "6.1NRT", "bright_t31": "265.69", "frp": "27.94", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 53.43833, 46.07003 ] } }
 ]
 }
